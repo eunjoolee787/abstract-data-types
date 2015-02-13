@@ -53,5 +53,4 @@ describe('Node', function () {
       expect(node.getNext()).to.equal(nextNode);
     });
   });
-
 });
