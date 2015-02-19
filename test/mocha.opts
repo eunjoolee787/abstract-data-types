@@ -1,2 +1,4 @@
 
 --reporter spec
+--require mocha-clean/brief
+--watch
